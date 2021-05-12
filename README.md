@@ -4,6 +4,6 @@ An application that generates passwords of varying strength depending on what th
 
 # How to use
 
-The user is prompted with a meny that has a list of choices to choose from for generating passwords of varying strengths, with choicee 1 being the most standard, and choice 4 being the most complex.
+The user is prompted with a menu that has a list of choices to choose from with choice 1 being the least complex, and choice 4 being the most complex.
 
-The user is then asked the size they'd like their password to be.
+The user is then asked the size they'd like their password to be. The password will be any size the user enters.
